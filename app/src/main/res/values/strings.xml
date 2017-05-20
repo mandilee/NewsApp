@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_articles">No News Articles Found</string>
+    <string name="example_published">24-Nov-2017</string>
+    <string name="example_section">US News</string>
+    <string name="example_title">President Trump has been Impeached!</string>
+    <string name="http_request_failed">HTTP request failed.</string>
+    <string name="url_build_failure">Couldn\'t build URL.</string>
+    <string name="error_code">Error response code:</string>
+    <string name="problem_getting_json">Problem retrieving the JSON result.</string>
+    <string name="problem_parsing_json">Problem parsing the news JSON results</string>
+    <string name="info_image">Info Image</string>
+</resources>
